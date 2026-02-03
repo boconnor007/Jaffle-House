@@ -7,4 +7,4 @@ select
     amount / 100 as amount,
     _batched_at as created_at,
 from 
-    {{ source('stripe', 'payments') }}
+    {{ source('stripe', 'payment') }}

@@ -1,4 +1,4 @@
 sources:
   - name: stripe
     tables:
-      - name: payments
+      - name: payment
