@@ -1,1 +1,0 @@
-{{ codegen.generate_source(schema_name= 'stripe', database_name= 'raw') }}
