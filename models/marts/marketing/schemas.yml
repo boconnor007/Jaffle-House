@@ -1,0 +1,4 @@
+version: 2
+models:
+  - name: dim_customers.sql
+    description: "This model should be used for Customer 360 analysis."
