@@ -1,3 +1,0 @@
-models:
-  - name: dim_customers
-    description: This model should be used for Customer360 analysis.
